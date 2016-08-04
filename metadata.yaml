@@ -1,0 +1,31 @@
+_repo: Other-Things-Being-Equal_1839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wolf, Emma
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '722'
+    url: http://www.gutenberg.org/2009/agents/722
+description: ''
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish families -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Jewish women -- Fiction'
+- !lcsh 'Interfaith marriage -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcsh 'Jews -- California -- San Francisco -- Fiction'
+- GITenberg
+title: Other Things Being Equal
+url: http://www.gutenberg.org/ebooks/1839
